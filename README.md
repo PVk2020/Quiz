@@ -1,2 +1,2 @@
 # Quizzika
-Contains three sections comprising Political, Sports and Movie quiz.
+Contains three sections comprising Politics, Sports and Movie quiz.
