@@ -1,2 +1,2 @@
-# Quiz
+# Quizzika
 Created with CodeSandbox
